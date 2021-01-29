@@ -1,0 +1,7 @@
+Niz koji označava broj tipa servera u odredjenom ormaru je:
+0,10,0,0,0,5,6,5,0,0,6,2
+
+Rezultat funkcije je:
+11895
+
+Rešenje postignuto primenjivanjem scipy.optmize.linprog funkcije, zatim članovi niza zaokruženi, i pretraživani susedi dok nije nadjen najveći mogućci rezultat sa celobrojnim članovima.

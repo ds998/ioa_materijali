@@ -1,0 +1,8 @@
+Najmanja moguća vrednost optimizacione funkcije je:
+0
+
+Najmanje moguće resenje je:
+1111011010111000100111000110011010111001011000101111111001011001
+
+
+Rešenje postignuto primenom Haming distance za smanjivanje okoline kao i eksponencijalnim hladjenjem temperature.

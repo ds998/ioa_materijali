@@ -1,0 +1,2 @@
+Rešenje koja oba programa postižu je: 1.2 1.25 1.5 3.16.
+Prvi program(a.cpp, računanje sva 4 broja) postiže to u 1334658246 optimizacija (vrtenja četvorostruke petlje), dok drugi program(b.cpp, računanje 3 broja) postiže to u 25722921 optimizacija (vrtenja trostruke petlje), tako da je drugi program nesumnjivo brži, zbog razloga što nedostatak računanja četvrtog broja znači nedostatak četvrte (ugneždjene) petlje znači da je postupak mnogo puta manji za drugi program nego za prvi program.

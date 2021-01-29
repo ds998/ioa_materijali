@@ -1,0 +1,6 @@
+Najmanja moguca vrednost je:
+1
+Najmanje moguce resenje je:
+101111001110101110100101010001010101110111001100001101110011111
+
+Rešenje postignuto tako što je za selekciju odabrano 20% najmanjih članova generacije po vrednosti optimizacione funkcije, pa je nova generacija napravljena bitskim ukrštanjem i onda je nova generacija mutirana sa koeficijentom verovatnoće 0.08. 

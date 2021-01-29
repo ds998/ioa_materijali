@@ -1,0 +1,16 @@
+Koeficijenti za cvorove:
+-0.258415410154785
+5.044070763612526
+0.180023517396415
+-2.399117479900595
+5.215902124596127
+7.888937413030540
+-8.817886322003112
+0.113663952116616
+-2.983130843046194
+7.855352222367301
+
+Minimalna vrednost optimizacione f-je:
+0.009659775536768
+
+Početni interval je postignut nasumičnim metodom. Metoda scipy.optimize.minimize se zove i  koeficijenti se menjaju dok se ne dostigne vrednost optimizacione funkcije ispod 10^-2.

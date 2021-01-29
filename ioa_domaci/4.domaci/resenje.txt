@@ -1,0 +1,11 @@
+Prva nula za n = 1 je : 
+4.493409457909
+Druga nula za n = 1 je : 
+7.725251836938
+Prva nula za n = 2 je : 
+5.763459196895
+Druga nula za n = 2 je : 
+9.095011330476
+
+Rešenje je dobijeno tako što se za zadato n određuje prvi interval koji zadovoljava uslov f(a)f(b) <0 , pa se prva nula dobija polovljenjem intervala. Onda se traži sledeći zadovoljavajući interval za drugu nulu (zahvaljujući grafiku nastalom iz koda figure.py, moglo se zaključiti da prva nula se nalazi u opadajućoj krivi, a druga u rastućoj, olakšavajući potragu intervala).
+

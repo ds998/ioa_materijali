@@ -1,0 +1,7 @@
+Minimalna cena povezivanja: 698
+
+Sekvenca minimalnog povezanog stabla:
+B J  C I  E A  A F  F D  G D  D I  I H  H J
+
+Rešenje je dobijeno tako što se prolazi kroz varijacije brojeva od 1 do 10 sa 8 članova, pa se odgovarajući niz koristi za generisanje stabla u grafu korišćenjem algoritma datom na predavanju,pa se kalkuliše cena povezivanja, sa čuvanjem minimalne cene i minimalnog stabla.
+
